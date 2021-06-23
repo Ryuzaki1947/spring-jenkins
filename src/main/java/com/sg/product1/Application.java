@@ -11,7 +11,7 @@ public class Application {
 		logger.error("error msg");
 		logger.warn("warn msg");
 		logger.debug("debug msg");
-		System.out.println("Hey");
+//		System.out.println("Hey");
 	}
 
 }
